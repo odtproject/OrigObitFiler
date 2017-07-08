@@ -6,6 +6,8 @@ class EchoLine {
 		Scanner myScanner = new Scanner(System.in);
 		
 		System.out.println(myScanner.nextLine());;
+		
+		System.out.println("That's done.");
 
 		myScanner.close();
 	}
