@@ -8,6 +8,8 @@ class EchoLine {
 		System.out.println(myScanner.nextLine());;
 		
 		System.out.println("That's done.");
+		
+		System.out.println("Or is it?");
 
 		myScanner.close();
 	}
